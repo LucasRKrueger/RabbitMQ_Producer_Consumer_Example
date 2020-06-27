@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\RabbitMQ\HelloWorld\Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
